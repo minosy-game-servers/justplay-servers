@@ -1,1 +1,12 @@
-{"schemaVersion":1,"servers":[]}
+{
+  "schemaVersion": 1,
+  "servers": [
+    {
+      "name": "JustPlay",
+      "address": "157.180.83.26:30130",
+      "description": "GTA V Legacy",
+      "players": 0,
+      "maxPlayers": 48
+    }
+  ]
+}
