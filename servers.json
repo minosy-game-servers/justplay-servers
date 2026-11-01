@@ -3,7 +3,7 @@
   "servers": [
     {
       "name": "JustPlay",
-      "address": "157.180.83.26:30130",
+      "address": "37.230.210.86:30130",
       "description": "GTA V Legacy",
       "players": 0,
       "maxPlayers": 48
