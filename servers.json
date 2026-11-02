@@ -3,7 +3,7 @@
   "servers": [
     {
       "name": "JustPlay",
-      "address": "gt-srv-1.minosy.ru:30130",
+      "address": "gt-srv-1.minosy.ru:30120",
       "description": "GTA V Legacy",
       "players": 0,
       "maxPlayers": 48
